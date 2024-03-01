@@ -1,8 +1,11 @@
 # __**Box Covers**__
 
+As from the March 1st 2024, the Download Size of this Repo is : 2.97 GB ( Please Note This Size Can Change At Anytime. )
+
+__**Files and Folder Structure.**__
+
 **Images** **:** 
 All images i captured and found are located in these Listed Folders and are organized based on category. e.g. Cassette, Discs, DVD Games, Movies-Films, Nintendo Switch Games, PC, PlayStation 4 Games, Tv Shows-Series, VHS, Xbox 360 Games, Design your Own and Others.
-
 
 ## __**Disclaimer**__
 
