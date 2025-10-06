@@ -9,7 +9,7 @@ As from the September 2025, the Download Size for this Repo is : **5.42 GB** ( P
 __**Files and Folder Structure.**__
 
 **Images** **:** 
-All images i captured and found are located in these Listed Folders and are organized based on category. e.g. Audio Cassette and Discs, DVD Documentarys, Games and Sports, Game Cartridges, Movies and Films, Nintendo Switch Games, PC, PlayStation 3 and 4 Games, Tv Shows and Series, VHS, Xbox 360 Games, Design your Own and Others.
+All images i captured and found are located in Selected Folders and are organized based on category. e.g. Audio, Blu Rays, DVDs, Games, VHS, Design your Own and Others.
 
 
 ## __**Disclaimer**__
